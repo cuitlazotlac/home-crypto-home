@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 * {
   margin: 0;
@@ -10,14 +10,14 @@
   --clr-white: #ffffff;
   --clr-black: #202020;
   --clr-grey: #707070;
-  --clr-blue: #6c63ff;
-  --clr-blue-2: #4c46b6;
+  --clr-blue: #898989;
+  --clr-blue-2: #dfdfdf;
   --clr-green: #4fb646;
 }
 
 body {
   margin: 0;
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -82,7 +82,7 @@ nav {
   border: none;
   border-radius: 4px;
 
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   font-size: 1.1em;
   font-weight: 600;
 
@@ -130,7 +130,7 @@ header {
 }
 
 .header__search::placeholder {
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   font-size: 1.25em;
   font-weight: 600;
 }
@@ -200,13 +200,13 @@ header {
 }
 
 .card__info h4 {
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   font-size: 1.25em;
   font-weight: 600;
 }
 
 .card__info p {
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   font-size: 0.9em;
   margin-top: 5px;
 }
@@ -302,7 +302,7 @@ header {
   border: none;
   border-radius: 4px;
 
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   font-size: 1.1em;
   font-weight: 600;
 

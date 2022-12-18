@@ -17,7 +17,7 @@
 
 body {
   margin: 0;
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -82,7 +82,7 @@ nav {
   border: none;
   border-radius: 4px;
 
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   font-size: 1.10em;
   font-weight: 600;
 
@@ -130,7 +130,7 @@ header {
 }
 
 .header__search::placeholder {
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   font-size: 1.25em;
   font-weight: 600;
 }
@@ -200,13 +200,13 @@ header {
 }
 
 .card__info h4 {
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   font-size: 1.25em;
   font-weight: 600;
 }
 
 .card__info p {
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   font-size: 0.90em;
   margin-top: 5px;
 }
@@ -302,7 +302,7 @@ header {
   border: none;
   border-radius: 4px;
 
-  font-family: "Open Sans";
+  font-family: "Playfair Display";
   font-size: 1.10em;
   font-weight: 600;
 
